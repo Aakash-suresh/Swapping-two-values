@@ -28,7 +28,7 @@ print("Swapped values are:",a,b)
 ~~~
 
 ## OUTPUT:
-![Output 1](HBI1.png)
+![Output 1](HBI22.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
